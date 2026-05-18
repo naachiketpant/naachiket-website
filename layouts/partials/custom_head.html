@@ -1,0 +1,63 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+
+<style>
+  :root {
+    --font-main: 'Alegreya', serif;
+    --font-secondary: 'Alegreya', serif;
+  }
+
+  :root[data-theme="light"] {
+    --background-color: #f7f4ef;
+    --heading-color: #3a3a3a;
+    --text-color: #4a4845;
+    --link-color: #3273dc;
+    --visited-color: #8b6fcb;
+    --blockquote-color: #5a5755;
+  }
+
+  :root[data-theme="dark"] {
+    --background-color: #1e1c1a;
+    --heading-color: #d6d0c8;
+    --text-color: #b0aa9f;
+    --link-color: #8cc2dd;
+    --visited-color: #a89bca;
+    --blockquote-color: #9a9288;
+  }
+
+  #theme-toggle {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: var(--text-color);
+    padding: 0;
+    float: right;
+    display: flex;
+    align-items: center;
+    opacity: 0.7;
+  }
+
+  #theme-toggle:hover {
+    opacity: 1;
+  }
+
+  body {
+    min-height: 100vh;
+    max-height: 100vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1;
+  }
+
+  footer {
+    font-size: 0.75em;
+    opacity: 0.6;
+    padding-top: 1rem;
+    margin-top: 2rem;
+  }
+</style>

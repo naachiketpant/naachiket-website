@@ -1,0 +1,25 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = "Naachiket Pant"
+theme = 'hugo-bearblog'
+
+[params]
+  portrait = "/images/naachiket.png"
+  github = "https://github.com/naachiketpant"
+  linkedin = "https://www.linkedin.com/in/naachiket-pant/"
+  email = "mailto:pant.naachiket@gmail.com"
+
+[[menu.main]]
+  name = "About"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Principles"
+  url = "/principles/"
+  weight = 2
+
+# [[menu.main]]
+#   name = "Posts"
+#   url = "/posts/"
+#   weight = 3
