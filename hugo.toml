@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://naachiket.xyz'
 locale = 'en-us'
 title = "Naachiket Pant"
 theme = 'hugo-bearblog'
@@ -15,11 +15,11 @@ theme = 'hugo-bearblog'
   weight = 1
 
 [[menu.main]]
-  name = "Principles"
-  url = "/principles/"
+  name = "Posts"
+  url = "/posts/"
   weight = 2
 
-# [[menu.main]]
-#   name = "Posts"
-#   url = "/posts/"
-#   weight = 3
+[[menu.main]]
+  name = "Principles"
+  url = "/principles/"
+  weight = 3
