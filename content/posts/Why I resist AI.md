@@ -1,4 +1,4 @@
-+l++
++++
 title = "Why I resist AI"
 date = "2026-05-26"
 +++
