@@ -1,4 +1,4 @@
-+++
++l++
 title = "Why I resist AI"
 date = "2026-05-26"
 +++
@@ -45,6 +45,5 @@ There will probably come a time to raise those chickens, but at least it isn't n
 
 _PS: This might read like a doomer post, but the doom is a little exaggerated. I still am a better
 programmer than AI (albeit not faster most times), and a better software engineer on the whole, but
-I’m quite sure AI will overtake me soon. Even right now, it is able to take architectural decisions
-and implement them without much tweaking on my end. There are times when I  have to step in and do
-stuff myself, but that number is going down by the week._
+I’m quite sure AI will overtake me soon. There are times when I have to step in and do stuff
+myself, but that number is going down by the week._
