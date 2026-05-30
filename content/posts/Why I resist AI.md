@@ -29,13 +29,13 @@ One time during college, I had to write a program for an assignment in my C prog
 experience with programming up until that point had been in the OOPS paradigm (Java) and I had no
 no experience with C. It also so turned out that I hadn't started writing any code until the day before.
 My day was spent going through C libraries and github projects to understand how to write code
-the "C way" and then finally putting it down through Vim and debugging. I did not sleep that night
+the "C way" and then finally putting it down through Vim and then debugging. I did not sleep that night
 and was so proud of myself when I finally got the program to work end to end. It was nothing too
 special, but I understood every single line and had learnt so many new concepts and ideas in the
 process.
 
 Another fun thing, which might sound stupid to some, was that in the time I spent on C, I always LOVED
-typing `int main() { return 0; }`. That line signified a blank canvas, and the start of a journey
+typing out `int main() { return 0; }`. That line signified a blank canvas, and the start of a journey
 at the end of which I knew I would have learnt something new and interesting.
 
 This is why I don't like AI. There was a world with something I valued in it, with which I had a deep
