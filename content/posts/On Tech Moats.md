@@ -4,26 +4,25 @@ date = "2026-06-09"
 +++
 ## On Tech Moats
 
-As of the writing of this article, I work at Lucio - a legal AI tool. At the core, we are a ChatGPT
-for lawyers. We have always been asked about how our products are different from any general purpose 
-chat like Claude even any other  legal tool. These questions have only become more pointed recently,
-with Claude expanding into legal and the release of Mike OSS. The underlying question here is this:
-What is our tech moat?
+As of the writing of this article, I work at Lucio - a legal AI tool. At the core, we are a Claude
+for lawyers. We have always been asked about how our products are different from any general purpose
+chat like ChatGPT or even any other legal tool. If we are using the same foundational models, how do
+we compete with these bigger players? These questions have only become more pointed recently,
+with Claude expanding into legal and the release of Mike OSS.
 
-The truth is that there is no tech moat, at least not in the usual sense of the word. What I consider
-to be our edge is a little more complex, and needs an understanding of what our engineering values
-are and how they have been shaped.
+Our organization is just an example, but this question of moats applies to almost all tech companies
+in the world right now. There seems to be no true technical moat, no product in any space today really
+has something that others can't copy.
 
+However, let me give a little background on Lucio's journey.
 Over the last couple of years we have had the opportunity of releasing multiple features and products.
 Some worked, some didn’t - but we started to notice unique quirks and patterns that lawyers had when
 using Lucio. We spoke to our users a lot, some of them had wonderful ideas on features and improvements
 they wanted - most of which stuck and are a part of our product right now. We gradually began to
-develop a strong intuitive sense of how lawyers think and interface with software.
+develop a strong intuitive sense of how lawyers think and interface with software. This tacit knowledge
+helped us build products that lawyers want to use over a general purpose tool like GPT.
 
-
-So, what’s the moat then?
-
-The competitive axiom is evidently not “Who has the smartest model”. Building a good legal tool is
+It is evident that the competitive axiom is not “Who has the smartest model”. Building a good legal tool is
 not a model intelligence issue, it's a design and engineering problem. It is an understanding of the
 end-to-end legal workflows. It is knowledge of legal reasoning patterns, review habits, drafting
 expectations and interaction patterns. It is the fact that this knowledge permeates through our whole
@@ -35,8 +34,7 @@ artifacts, but do not have the context of:
 Why certain choices were made and what was intentionally omitted and
 Which tradeoffs matter
 
-This is true for any company. There is no true technical moat, no product in any space today really
-has something that others can't copy. However, having this context creates 2 main forms of compounding
+This is true for any company. However, having this context creates 2 main forms of compounding
 advantage:
 
 Faster iteration velocity: We can distinguish signal from noise faster and which friction points to
@@ -70,6 +68,5 @@ time, maybe the same time as us - do we not have an advantage over them?
 
 Clearly not. However, the fact of the matter is that as things stand, adoption rates for all of the
 leading legal products are more or less the same. This should tell us something about moats.
-Technology is changing insanely fast and the world is having to adapt. The products that win long-term
-won't be those with the best model or the most features today. They'll be the ones whose core product
-philosophy and culture can absorb and withstand the changes in the world.
+Technology is changing insanely fast and the world is having to adapt. The organizations who can
+absorb and withstand the changes in the world are the ones which will survive.
