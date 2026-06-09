@@ -1,3 +1,9 @@
++++
+title = "On Tech Moats"
+date = "2026-06-09"
++++
+## On Tech Moats
+
 As of the writing of this article, I work at Lucio - a legal AI tool. At the core, we are a ChatGPT
 for lawyers. We have always been asked about how our products are different from any general purpose 
 chat like Claude even any other  legal tool. These questions have only become more pointed recently,
@@ -55,7 +61,7 @@ employed to solve this, but to work through the problem we had to think about th
 what citations are to lawyers - what about them is so powerful and what are the underlying attributes
 that make them valuable. The result is that users are able to reliably get precise citations back to
 the exact page and section of the document.
-
+ 
 The truth.
 This much is clear by now - domain specific products like Lucio have a real advantage over a general
 purpose tool and over someone who is not already into building products for that domain, but it is
