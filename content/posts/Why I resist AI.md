@@ -43,7 +43,7 @@ connect, and now that world is turning on its head. I used to think that the end
 was the valuable part, but that was untrue. At least for me, I realize now that the process was far
 more valuable. It was more or less the only thing I cared about.
 
-You might ask why don't I just write programs the old way as a hobby - like a writer might still
+Why don't I just write programs the old way? As a hobby - like a writer might still
 write by hand, treating it as a craft. Truth is that I just don't find it satisfying anymore,
 probably because while for me the value lies in the process, I also care about what others think of
 me - as a programmer, as an engineer and as a human. This perception of others is affected by the end
