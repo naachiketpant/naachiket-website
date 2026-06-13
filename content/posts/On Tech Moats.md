@@ -40,7 +40,9 @@ organization, including the engineering team.
 Granted, the end product that comes from this understanding is "copyable" - but only in the
 superficial sense. The underlying judgement system is not. New competitors can imitate visible
 artifacts, but do not have the context of:
+
 Why certain choices were made and what was intentionally omitted and
+
 Which tradeoffs matter
 
 This is true for any company. However, having this context creates 2 main forms of compounding
@@ -49,6 +51,7 @@ advantage:
 Faster iteration velocity: We can distinguish signal from noise faster and which friction points to
 prioritize. As an example, time from feature plan to production for a feature that lets you draft in
 2 languages simultaneously was less than 2 weeks.
+
 Product coherence: Legal work is highly contextual. It’s easier to copy isolated features but miss
 the integrated experience. We have a feature that lets you enhance your prompt while you’re typing
 it out - getting this feature discovered and adopted by lawyers in particular requires a deep 

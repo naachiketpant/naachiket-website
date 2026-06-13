@@ -18,8 +18,3 @@ theme = 'hugo-bearblog'
   name = "Posts"
   url = "/posts/"
   weight = 2
-
-[[menu.main]]
-  name = "Principles"
-  url = "/principles/"
-  weight = 3
